@@ -2,6 +2,8 @@ Fanciful [![Build Status](https://travis-ci.org/mkremins/fanciful.svg?branch=mas
 ========
 Lightweight library offering pleasant chat message formatting for Bukkit plugins. A way to get at the good stuff offered by Minecraft 1.7's new chat protocol without dropping down to raw JSON.
 
+> This is my personal fork of it so that I can compile & deploy it to [my Maven Repo](https://rayzr522.github.io/maven-repo/).
+
 Installation
 --------
 Use Maven. Add the Fanciful dependency entry to your `pom.xml`.
